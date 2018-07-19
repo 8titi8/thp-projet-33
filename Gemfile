@@ -6,5 +6,5 @@ gem 'rubocop'
 gem 'pry'
 gem 'nokogiri'
 gem 'json'
-
+gem 'relaxed-rubocop'
 
